@@ -1,0 +1,37 @@
+Jasmn Tech Intuitive Map
+
+steps to complete:
+1. build a map
+2. set up function to look at multiple addresses
+3. set up card info to be presented for those locations
+4. show a side window that lets you see the card of all locations
+5. create a sorting function to filter them by whatever specs
+6. add on from there
+
+API's being used:
+1. google maps JS API
+2. create an api from google - AIzaSyAt3gHTDSKasfzlpuCgNmcki7KZ5euv9XI
+
+
+todo's:
+1C. take excel spreadsheet CSV and edit it with what necessary
+2. pull it into the javascript code
+3. add metadata - square footage, cost/PSF, est. stabilized Cap rate
+4. add a more button/function to open overflow on meta data card
+5. create a database to hold CSV file with data
+6. styles of icons, etc to show more flare
+
+
+later on:
+- add flood zone, fire zone, weather API, etc (layers)
+
+mindset:
+- 3 months to create a prototype
+- pitchdeck - give them the pitch, quick demo and ask for money
+  - hire a real engineering team to take our prototype to production
+- do not be afraid to hardcode options into the map
+- show functionality instead of being perfect with one thing
+-
+
+Google sheets
+- use geocoding app to create a full address and return the long/lat of all the addresses on the CSV/sheets
