@@ -10,8 +10,7 @@ steps to complete:
 
 API's being used:
 1. google maps JS API
-2. create an api from google - AIzaSyAt3gHTDSKasfzlpuCgNmcki7KZ5euv9XI
-
+2. create an api from google
 
 todo's:
 1C. take excel spreadsheet CSV and edit it with what necessary
@@ -25,13 +24,6 @@ todo's:
 later on:
 - add flood zone, fire zone, weather API, etc (layers)
 
-mindset:
-- 3 months to create a prototype
-- pitchdeck - give them the pitch, quick demo and ask for money
-  - hire a real engineering team to take our prototype to production
-- do not be afraid to hardcode options into the map
-- show functionality instead of being perfect with one thing
--
 
 Google sheets
 - use geocoding app to create a full address and return the long/lat of all the addresses on the CSV/sheets
